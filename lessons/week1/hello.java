@@ -1,4 +1,4 @@
-package oop.lessons;
+package lessons.week1;
 
 public class hello {
 
