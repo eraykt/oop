@@ -4,7 +4,11 @@ public class Main {
     public static void main(String[] args) {
         Account acc1 = new Account("eray", 100);
 
-        acc1.add(-2);
+        if (acc1.suspended) {
+            return;
+        }
+
+        acc1.add(50);
 
         double money = acc1.getBalance();
         System.out.println("current money: " + money);
