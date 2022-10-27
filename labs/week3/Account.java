@@ -30,6 +30,7 @@ public class Account {
 
         this.ownerName = name;
         this.balance = balance;
+        sc.close();
     }
 
     public void add(double amount) {
