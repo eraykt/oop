@@ -41,6 +41,7 @@ public class Main {
         int tamSayi;
         try {
             tamSayi = sc.nextInt();
+            System.out.println(tamSayi);
 
         } catch (InputMismatchException e) {
             System.out.println("hata mesaji: " + e);

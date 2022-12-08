@@ -25,4 +25,8 @@ public class Teacher {
         this.id = id;
         this.branch = branch;
     }
+
+    public int getId() {
+        return id;
+    }
 }

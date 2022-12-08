@@ -33,7 +33,7 @@ public class Player {
         }
 
         System.out.println("Senin secimin: " + pSign);
-
+        sc.close();
         return pSign;
     }
 }
