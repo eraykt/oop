@@ -1,0 +1,161 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch TicketApp",
+      "request": "launch",
+      "mainClass": "exam.abstractOrnek.final20202.TicketApp",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch MainClass",
+      "request": "launch",
+      "mainClass": "exam.abstractOrnek.MainClass",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch MainClass",
+      "request": "launch",
+      "mainClass": "exam.w2.MainClass",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch InheritanceOrnek",
+      "request": "launch",
+      "mainClass": "exam.w2.InheritanceOrnek",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Muhendis",
+      "request": "launch",
+      "mainClass": "exam.w2.Muhendis",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch ExceptionOrnek",
+      "request": "launch",
+      "mainClass": "exam.w1.ExceptionOrnek",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch StaticField",
+      "request": "launch",
+      "mainClass": "exam.w1.StaticField",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Burak",
+      "request": "launch",
+      "mainClass": "exam.w1.Burak",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Deneme",
+      "request": "launch",
+      "mainClass": "exam.w2.Deneme",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch GameManager",
+      "request": "launch",
+      "mainClass": "RockPaperScissors.GameManager",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Burak",
+      "request": "launch",
+      "mainClass": "exam.Burak",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch BankAccount",
+      "request": "launch",
+      "mainClass": "labs.week11.BankAccount",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch TestMain",
+      "request": "launch",
+      "mainClass": "labs.week12.TestMain",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "labs.week2.Main",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main(1)",
+      "request": "launch",
+      "mainClass": "labs.week3.Main",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main(2)",
+      "request": "launch",
+      "mainClass": "labs.week4.Main",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main(3)",
+      "request": "launch",
+      "mainClass": "labs.week6.Main",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch MainC",
+      "request": "launch",
+      "mainClass": "labs.week7.MainC",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main(4)",
+      "request": "launch",
+      "mainClass": "labs.week8.Main",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch TestMain(1)",
+      "request": "launch",
+      "mainClass": "labs.week9.TestMain",
+      "projectName": "oop_f7d2c38f"
+    },
+    {
+      "type": "java",
+      "name": "Launch hello",
+      "request": "launch",
+      "mainClass": "lessons.week1.hello",
+      "projectName": "oop_f7d2c38f"
+    }
+  ]
+}
